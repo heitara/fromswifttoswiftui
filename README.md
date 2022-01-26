@@ -9,7 +9,7 @@ The lecture covers the following topics:
 * Combine
 * Result Builders
 
-[The slides]("from swift to swiftui.pdf") are in English.
+[The slides](https://github.com/heitara/fromswifttoswiftui/blob/main/from%20swift%20to%20swiftui.pdf) are in English.
 
 A video recording of the lecture can be found [here](http://youtube.com/).
 
