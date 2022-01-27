@@ -11,5 +11,5 @@ The lecture covers the following topics:
 
 [The slides](https://github.com/heitara/fromswifttoswiftui/blob/main/from%20swift%20to%20swiftui.pdf) are in English.
 
-A video recording of the lecture can be found [here](http://youtube.com/).
+A video recording of the lecture can be found [here](https://www.youtube.com/watch?v=Sp2qI8li5fg).
 
